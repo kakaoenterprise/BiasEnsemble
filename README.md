@@ -2,7 +2,7 @@
 
 This is official PyTorch implementation of "**Revisiting the Importance of Amplifying Bias for Debiasing**" (AAAI 2023).
 
-> [Jungsoo Lee](https://leebebeto.github.io/)<sup>12*</sup>, [Jeonghoon Park](https://atjeong.github.io/)<sup>12*</sup>, [Daeyoung Kim](https://github.com/cyc1am3n)<sup>1*</sup>, Juyoung Lee<sup>2</sup>, Edward Choi<sup>1</sup>, Jaegul Choo<sup>1</sup> <br>
+> [Jungsoo Lee](https://leebebeto.github.io/)<sup>12*</sup>, [Jeonghoon Park](https://atjeong.github.io/)<sup>12*</sup>, [Daeyoung Kim](https://github.com/cyc1am3n)<sup>1*</sup>, [Juyoung Lee](https://sites.google.com/view/juyoung-lee)<sup>2</sup>, Edward Choi<sup>1</sup>, Jaegul Choo<sup>1</sup> <br>
 > <sup>1</sup> KAIST <sup>2</sup> Kakao Enterprise, South Korea <br>
 > <sup>*</sup> Equal Contribution <br>
 > [arXiv](https://arxiv.org/abs/2205.14594) <br>
