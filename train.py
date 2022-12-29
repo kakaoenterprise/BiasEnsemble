@@ -51,8 +51,8 @@ if __name__ == '__main__':
     parser.add_argument("--num_bias_models", type=int, default=5, help="number of bias models")
     parser.add_argument("--resnet_pretrained", action="store_true", help="use pretrained ResNet")
     parser.add_argument("--agreement", type=int, default=3, help="number of agreement")
+    
     args = parser.parse_args()
-
     if args.fix_randomseed:
         random_seed = args.seed
         torch.manual_seed(random_seed)
