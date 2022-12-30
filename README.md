@@ -148,7 +148,7 @@ Jungsoo Lee [[Website]](https://leebebeto.github.io/) [[LinkedIn]](https://www.l
 
 Jeonghoon Park [[Website]](https://atjeong.github.io/) [[Google Scholar]](https://scholar.google.co.kr/citations?user=f0FspZwAAAAJ&hl=ko) (KAIST AI)
 
-Daeyoung Kim [[Website]](https://cyc1am3n.github.io/) [[Google Scholar]](https://scholar.google.com/citations?user=_Bd2HqUAAAAJ&hl=ko) (KAIST AI)
+Daeyoung Kim [[Website]](https://cyc1am3n.github.io/) [[LinkedIn]](https://kr.linkedin.com/in/daeyoung-kim-b1b77a242) [[Google Scholar]](https://scholar.google.com/citations?user=_Bd2HqUAAAAJ&hl=ko) (KAIST AI)
 
 Juyoung Lee [[Website]](https://sites.google.com/view/juyoung-lee) (Kakao Enterprise)
 
